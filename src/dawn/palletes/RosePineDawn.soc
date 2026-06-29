@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table
+  xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+  xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:ooo="http://openoffice.org/2004/office">
+ <draw:color draw:name="Base"          draw:color="#faf4ed"/>
+ <draw:color draw:name="Surface"       draw:color="#fffaf3"/>
+ <draw:color draw:name="Overlay"       draw:color="#f2e9e1"/>
+ <draw:color draw:name="Muted"         draw:color="#9893a5"/>
+ <draw:color draw:name="Subtle"        draw:color="#797593"/>
+ <draw:color draw:name="Text"          draw:color="#575279"/>
+ <draw:color draw:name="Love"          draw:color="#b4637a"/>
+ <draw:color draw:name="Gold"          draw:color="#ea9d34"/>
+ <draw:color draw:name="Rose"          draw:color="#d7827a"/>
+ <draw:color draw:name="Pine"          draw:color="#286983"/>
+ <draw:color draw:name="Foam"          draw:color="#56949f"/>
+ <draw:color draw:name="Iris"          draw:color="#907aa9"/>
+ <draw:color draw:name="Highlight Low" draw:color="#f4ede8"/>
+ <draw:color draw:name="Highlight Med" draw:color="#dfdad9"/>
+ <draw:color draw:name="Highlight High"draw:color="#cecacd"/>
+</ooo:color-table>
